@@ -77,6 +77,21 @@ Qualidade não é detalhe — é requisito.
 
 ---
 
+## 🚀 Projetos em Destaque
+
+### 🧪 Aplicação em Javascript com Estruturação e aplicação em Node.js
+https://github.com/Raffacris/Loja-AgilStore
+
+
+### 🟨 Aplicação web responsiva desenvolvida em React
+https://github.com/Raffacris/Galeria-de-Fotos
+
+### 📋 Aplicação de um Sistema de Pacientes desenvolvido em Java
+https://github.com/Raffacris/sistema-gestao-pacientes-java
+---
+### 🟨 Bootcamp - Deloitte (Em desenvolvimento)
+https://github.com/Raffacris/Bootcamp-Java-turma-2
+
 ## 📫 Contato
 
 - 💼 LinkedIn: [(https://www.linkedin.com/in/rafaela-souzadev/)]
