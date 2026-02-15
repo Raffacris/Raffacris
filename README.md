@@ -92,6 +92,9 @@ https://github.com/Raffacris/sistema-gestao-pacientes-java
 ### 🟨 Bootcamp - Deloitte (Em desenvolvimento)
 https://github.com/Raffacris/Bootcamp-Java-turma-2
 
+### 🟨 🧩 Projeto de Estudo de Automação em Cypress
+https://github.com/Raffacris/Projeto-de-Automacao-com-cypress
+
 ## 📫 Contato
 
 - 💼 LinkedIn: [(https://www.linkedin.com/in/rafaela-souzadev/)]
