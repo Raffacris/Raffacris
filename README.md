@@ -2,7 +2,7 @@
 
 Hi there 👋  
 
-Sou profissional da área da saúde em transição estratégica para Tecnologia, com foco em **Qualidade de Software e Testes Automatizados**.  
+Sou profissional da área da saúde em transição estratégica para Tecnologia, com foco em **Qualidade de Software e Testes Automatizados**, sou **Desenvolvedora Java**.  
 Trago para o QA uma base forte em protocolos, segurança, análise crítica e controle de qualidade.
 
 ---
@@ -89,7 +89,7 @@ https://github.com/Raffacris/Galeria-de-Fotos
 ### 📋 Aplicação de um Sistema de Pacientes desenvolvido em Java
 https://github.com/Raffacris/sistema-gestao-pacientes-java
 ---
-### 🟨 Bootcamp - Deloitte (Em desenvolvimento)
+### 🟨 Bootcamp - Deloitte 
 https://github.com/Raffacris/Bootcamp-Java-turma-2
 
 ### 🟨 🧩 Projeto de Estudo de Automação em Cypress
